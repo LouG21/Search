@@ -18,7 +18,8 @@ search button should also be centered, and should be beneath the search bar.
 4) Query Images. On the Google Image Search page, the user should be able to type in a query,
 click a search button, and be taken to the Google Image search results for that page.
  
-5) Query Advanced. On the Google Advanced Search page, the user should be able to provide
+5) Query Advanced. 
+  a. On the Google Advanced Search page, the user should be able to provide
 input for the following four fields (taken from Google’s own advanced search
 (https://www.google.com/advanced_search) options)
  
@@ -27,16 +28,16 @@ input for the following four fields (taken from Google’s own advanced search
 - Find pages with… “any of these words:”
 - Find pages with… “none of these words:”
 
-6) Appearance. Like Google’s own Advanced Search page, the four options should be stacked
+  b. Appearance. Like Google’s own Advanced Search page, the four options should be stacked
 vertically, and all of the text fields should be left aligned.
 
-7) Consistent with Google’s own CSS, the “Advanced Search” button should be blue with
+  c. Consistent with Google’s own CSS, the “Advanced Search” button should be blue with
 white text. When the “Advanced Search” button is clicked, the user should be taken to
 search results page for their given query.
 
-8) Lucky. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with
+6) Lucky. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with
 Google’s own behavior, clicking this link should take users directly to the first Google search
 result for the query, bypassing the normal results page.
 
-9) Aesthetics. The CSS you write should match Google’s own aesthetics as best as possible.
+7) Aesthetics. The CSS you write should match Google’s own aesthetics as best as possible.
 
