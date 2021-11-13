@@ -1,0 +1,122 @@
+<style>
+
+    body {
+        font-size: 14px;
+        font-family: Roboto,arial,sans-serif;
+        color: #202124;
+    }
+
+    h1 {
+        color: blue;
+  	text-align: center;
+    }
+
+    h3, h6 {
+        color: blue;
+        font-size: 14px;
+    }
+
+    form {
+        display: block;
+        margin-top: 5em;
+    }
+
+    #form2 {
+        display: block;
+        margin-top: 5em;
+        border: 1px solid #dfe1e5;
+        box-shadow: none;
+        width: 300px;
+        padding: 4px;
+    }
+
+    .srchTxt {
+        background: #fff;
+        display: flex;
+        border: 1px solid #dfe1e5;
+        box-shadow: none;
+        border-radius: 24px;
+        padding: 20px;
+        z-index: 3;
+        height: 24px;
+        margin: 0 auto;
+        width: auto;
+        max-width: 584px;
+        display: flex;
+        flex: 1;
+        flex-wrap: wrap;
+    }
+
+    _advSrchTxt {
+        background: #fff;
+        display: flex;
+        border: 1px solid #dfe1e5;
+        box-shadow: none;
+        border-radius: 24px;
+        padding: 20px;
+        z-index: 3;
+        height: 200px;
+        margin: 0 auto;
+        width: auto;
+        max-width: 584px;
+        display: flex;
+        flex: 1;
+        flex-wrap: wrap;
+    }
+
+    #in1 {
+        font-size: 14px;
+        font-family: Roboto,arial,sans-serif;
+        border: 1px solid white;
+        width: auto;
+        max-width: 584px;
+        display: flex;
+        flex: 1;
+        flex-wrap: wrap;
+    }
+
+    #in2 {
+        font-size: 14px;
+        font-family: Roboto,arial,sans-serif;
+        border: 1px solid white;
+        width: auto;
+        max-width: 584px;
+        display: flex;
+        flex: 1;
+        flex-wrap: wrap;
+    }
+
+
+    #submit1 {
+        background: #1a73e8;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        font-family: Roboto,arial,sans-serif;
+        font-size: 14px;
+        margin: 11px 4px;
+        padding: 0 50px;
+        line-height: 27px;
+        height: 36px;
+        min-width: 54px;
+        text-align: center;
+        color: white;
+        cursor: pointer;
+        user-select: none;
+    }
+
+    #div1 {
+        color: blue;
+        text-align: right;
+    }
+
+    #div2 {
+        border: 2px solid blue;
+        color: blue;
+        text-align: center;
+    }
+
+
+
+
+
+</style>
