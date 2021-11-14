@@ -7,17 +7,23 @@
     <body>
         <h1>Image Search</h1>
         <div id="div1">
-            |  <a href="google_search.html">Back to Search</a> |
+            |  <a href="index.html">Back to Search</a> |
         </div>
-
-        <form id="form2" action="https://www.google.com/imghp?hl=en&tab=ri&ogbl">
-
-            <input type="text" name="q">
-            <input type= "hidden" data-ved="0ahUKEwig_deXnZb0AhWsRTABHU8aDtQQ4dUDCAY"
-            <div class="srchButton">
-                <input id="submit1" type="submit" value="Google Image Search">
+        <form id="form" action="https://google.com/search">
+            <div class="srchTxt">
+                <input id="in1" type="text" name="q">
+                <input type="hidden" name="source" value="lnms">
+               <input type="hidden" name="tbm" value="isch">
+               <input type="hidden" name="sa" value="X">
+               <input type="hidden" name="ved" value="2ahUKEwifkvXigJj0AhVYSzABHToUDQkQ_AUoAnoECAEQBA">
+               <input type="hidden" name="cshid" value="cshid=1636898156730871">
+               <input type="hidden" name="biw" value="1693">
+               <input type="hidden" name="bih" value="bih=830">
+               <input type="hidden" name="dpr" value="1">
             </div>
-
+            <center><div class="srchButton">
+                <input id="submit1" type="submit" value="Google Search">
+            </div></center>
         </form>
     </body>
 </html>
